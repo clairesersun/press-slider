@@ -1,2 +1,2 @@
 # press-slider
-Press Slider for MadRitual
+Press Slider element for MadRitual
